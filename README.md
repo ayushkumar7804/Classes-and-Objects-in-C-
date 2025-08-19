@@ -126,7 +126,7 @@ In C++, **classes and objects** are the foundation of Object-Oriented Programmin
 3. In `main()`:  
    - Create objects `S1, S2, S3`.  
    - Assign details to each object.  
-   - Example: `S1.name = "Aditya Jadhav"`.  
+   - Example: `S1.name = "Ayush Yadav"`.  
 4. Print required details (e.g., `S1.name`).  
 5. **End**  
 
